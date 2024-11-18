@@ -1,6 +1,6 @@
-👋 Hey there! I'm Rehmana Faiz, a passionate coder and aspiring developer currently in my third semester of computer science. Here's a bit about me:
+👋 Hey there! I'm Rehmana Faiz, a passionate coder and aspiring developer currently in my fifth semester of computer science. Here's a bit about me:
 
-🚀 **Skills**: Proficient in C#, Java, HTML, and CSS. I'm on a mission to continually sharpen my coding prowess and expand my knowledge.
+🚀 **Skills**: Proficient in C#, Java, HTML, Python, and CSS. I'm on a mission to continually sharpen my coding prowess and expand my knowledge.
 
 💡 **Projects**: You'll find a mix of personal projects and coursework here. I love experimenting with new technologies and solving real-world problems through code.
 
