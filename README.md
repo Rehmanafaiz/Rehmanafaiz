@@ -1,4 +1,4 @@
-👩‍💻 Hey there! I'm Rehmana Faiz – a passionate coder and aspiring software developer, currently in my 6th semester of a Bachelor’s in Computer Science 🎓.
+👩‍💻 Hey there! I'm Rehmana Faiz – a passionate coder and aspiring software developer, currently in my Last semester of a Bachelor’s in Computer Science 🎓.
 
 🛠️ Technical Skills:
 Proficient in C#, Java, Python, HTML, and CSS. Currently exploring JavaScript and planning to dive into Node.js for full-stack development 🌐. Experienced with Git, SQL, and cloud platforms ☁️. Familiar with OOP, data structures, and Agile workflows 🔄.
