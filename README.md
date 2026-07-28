@@ -1,19 +1,16 @@
-👩‍💻 Hey there! I'm Rehmana Faiz – a passionate coder and aspiring software developer, currently in my Last semester of a Bachelor’s in Computer Science 🎓.
+👩‍💻 **Hi, I'm Rehmana Faiz** — a **fresh BS Computer Science graduate** from KIET University with a passion for building scalable, user-focused software solutions.
 
-🛠️ Technical Skills:
-Proficient in C#, Java, Python, HTML, and CSS. Currently exploring JavaScript and planning to dive into Node.js for full-stack development 🌐. Experienced with Git, SQL, and cloud platforms ☁️. Familiar with OOP, data structures, and Agile workflows 🔄.
+💻 **Technical Skills:**
+I have hands-on experience with **JavaScript, React.js, Node.js, Python, Java, SQL, Git, HTML, CSS, and REST APIs**. I am familiar with Linux, Agile development, software engineering principles, and database design. I enjoy developing full-stack applications and continuously expanding my technical expertise.
 
-💡 Projects & Experience:
-Whether it's personal projects or academic work, I love turning ideas into code 💻. My involvement in hackathons and coding competitions 🤖 helps me strengthen my problem-solving and collaboration skills 🤝.
+🚀 **Projects:**
+I have built several academic and personal projects, including **Sahil**, a smart public transport navigation and safety system, and **PetCare**, an AI-powered e-commerce platform. These projects strengthened my skills in frontend development, backend API development, database integration, and problem-solving.
 
-🌍 Web Development Enthusiast:
-I enjoy designing responsive websites and building intuitive user interfaces 🎨. Bringing digital experiences to life on the web is my creative playground 🕸️.
+🌱 **Learning & Growth:**
+I believe technology is constantly evolving, and I enjoy learning new tools and frameworks. I am currently expanding my knowledge of **DevOps, cloud technologies, and modern software development practices** to become a well-rounded software engineer.
 
-📚 Learning & Growth:
-Tech is always evolving—and so am I! 🔁 I’m committed to continuous learning, staying curious, and expanding my knowledge every day 🚀.
+🎯 **Career Goal:**
+As a fresh graduate, I am seeking opportunities in **Software Engineering, Backend Development, Full-Stack Development, and DevOps**, where I can contribute to real-world projects, collaborate with talented teams, and continue growing professionally.
 
-✨ Vision & Passion:
-I'm passionate about using technology to make a positive impact 💡. My goal is to develop meaningful, user-centric software that improves lives 🌱.
-
-🔗 Let’s Connect:
-Feel free to explore my repositories, see what I’m working on, and join me on this exciting journey through the world of code 💫👩‍💻.
+📫 **Let's Connect:**
+I'm always open to connecting with developers, recruiters, and technology enthusiasts. Feel free to explore my projects and reach out for collaboration or career opportunities.
